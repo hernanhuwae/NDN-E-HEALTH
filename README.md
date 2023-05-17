@@ -1,2 +1,2 @@
 # NDN-E-HEALTH
-Membuat App Android with flutter dengan firebase CRUD
+Membuat App Android NDN E-Health with flutter UI
